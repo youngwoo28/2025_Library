@@ -25,7 +25,10 @@ CNN, RNN, Attention, Transfer Learning, 시계열 예측 등 실전 활용 가�
 | `ResNet.ipynb` | ResNet 구조 실습 |
 | `TensorFlow.ipynb` | 텐서플로우 기반 신경망 실습 |
 | `VGG_Transfer_learning.ipynb` | 전이학습 예제 (VGG) |
+| 'GAN.ipynb' | GAN 기본 구조 구현 예제 |
+| 'SRGAN.ipynb'| SRGAN 기반 이미지 초해상도 구현 예제 |
 | `README.md` | 프로젝트 설명 문서 (현재 파일) |
+
 
 ---
 
